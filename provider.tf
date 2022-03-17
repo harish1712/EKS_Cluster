@@ -1,7 +1,6 @@
 provider "aws" {
    region = "us-east-1"
-   access_key = "AKIAZJ3JJO2FBJ7TMUFK"
-   secret_key = "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"
+   
  }
 
  /*provider "kubernetes" {
